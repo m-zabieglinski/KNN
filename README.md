@@ -10,8 +10,10 @@ First, 2 functions are defined inside it:
   
   These 2 functions are later used by the KN class.
   
+  
+  
 
-**KN** is a class instances of which are Kohonen Neural Networks. It has methods:
+**KN** is a class, instances of which are Kohonen Neural Networks. It has methods:
 
   -create - which creates KNN of size given in when initializing the instance and with random weights
   
