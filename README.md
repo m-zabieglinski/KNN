@@ -19,3 +19,6 @@ The main feature is the KN class.
   
   
  **disk.py** and **square.py** are example implementations of KNN using kohonen.py on datasets representing a disk and a square, respectively. They create a KNN, train it, and then plot it over the dataset, using the different methods of KN.
+
+![disk.py](https://github.com/m-zabieglinski/KNN/blob/main/disk.png)
+![square.py](https://github.com/m-zabieglinski/KNN/blob/main/square.png)
