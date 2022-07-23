@@ -1,7 +1,6 @@
 # KNN
 A sketch of Kohonen Neural Network in Python. Uses NumPy. Not very accurate, nor quick. Requires improvements. However, it does somewhat work.
 
-# DiceRolling
 
 kohonen.py is a Python file that includes tools to create your own Kohonen Neural Network and train it.
 
