@@ -16,3 +16,6 @@ The main feature is the KN class.
   -show - which is simply print(net)
   
   -showmap - which returns a plot of the network and an optional given dataset, works only for network spanned over 2D spaces
+  
+  
+ **disk.py** and **square.py** are example implementations of KNN using kohonen.py on datasets representing a disk and a square, respectively. They create a KNN, train it, and then plot it over the dataset, using the different methods of KN.
